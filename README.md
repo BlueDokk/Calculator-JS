@@ -4,4 +4,4 @@
 <p>To view the content on the GitHub web server:</p>
 https://bluedokk.github.io/Calculator-JS/ 
 
-<img src="images/screenshot.jpg" alt="Calculator">
+<img src="screenshot.png" alt="Calculator">
