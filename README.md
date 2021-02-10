@@ -1,4 +1,4 @@
-# Calculator-JS
+<h1>Calculator-JS</h1> 
 Numeric calculator with vanilla JavaScript. Use digital keyboard or your own keyboard on your computer. 
 
 To view the content on the GitHub web server:
